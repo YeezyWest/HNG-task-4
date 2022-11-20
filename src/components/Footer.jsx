@@ -37,7 +37,7 @@ const Footer = () => {
               <span className="hidden md:block">United Kingdom</span>
             </span>
             <span className="flex items-center gap-2">
-               <img src="/vector (1).svg" alt="" />
+               <img src="/vector (1).svg" alt="Support" />
               <span className="hidden md:block">Customer Support</span>
             </span>
           </div>
